@@ -1,11 +1,4 @@
 test
 test2
 test3
-<<<<<<< HEAD
 test4 
-=======
-<<<<<<< HEAD
-test5
-=======
->>>>>>> 54a2b9e02918af10bf4823b31d64ac9920122f70
->>>>>>> e7aafd8441a43a006ce248bc81ae81e8032825f8
